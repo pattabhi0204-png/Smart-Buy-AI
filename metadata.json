@@ -1,0 +1,6 @@
+{
+  "name": "Product Decision & Price Assistant",
+  "description": "AI-powered assistant analyzing product specifications, customer preferences, and product photos to provide personalized, unbiased recommendations and real-time e-commerce price comparisons.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
